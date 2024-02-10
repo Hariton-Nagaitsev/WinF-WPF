@@ -1,0 +1,68 @@
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2_EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.EditPersonForm.resources
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2_EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.Form1.resources
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2_EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.csproj.GenerateResource.cache
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2_EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2_EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.AssemblyInfoInputs.cache
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2_EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.AssemblyInfo.cs
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2_EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.csproj.CoreCompileInputs.cache
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2_EditPerson\EditPerson\bin\Debug\net8.0-windows\EditPerson.exe
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2_EditPerson\EditPerson\bin\Debug\net8.0-windows\EditPerson.deps.json
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2_EditPerson\EditPerson\bin\Debug\net8.0-windows\EditPerson.runtimeconfig.json
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2_EditPerson\EditPerson\bin\Debug\net8.0-windows\EditPerson.dll
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2_EditPerson\EditPerson\bin\Debug\net8.0-windows\EditPerson.pdb
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2_EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.dll
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2_EditPerson\EditPerson\obj\Debug\net8.0-windows\refint\EditPerson.dll
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2_EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.pdb
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2_EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.genruntimeconfig.cache
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2_EditPerson\EditPerson\obj\Debug\net8.0-windows\ref\EditPerson.dll
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2-3_EditPerson\EditPerson\bin\Debug\net8.0-windows\EditPerson.exe
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2-3_EditPerson\EditPerson\bin\Debug\net8.0-windows\EditPerson.deps.json
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2-3_EditPerson\EditPerson\bin\Debug\net8.0-windows\EditPerson.runtimeconfig.json
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2-3_EditPerson\EditPerson\bin\Debug\net8.0-windows\EditPerson.dll
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2-3_EditPerson\EditPerson\bin\Debug\net8.0-windows\EditPerson.pdb
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2-3_EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.EditPersonForm.resources
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2-3_EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.Form1.resources
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2-3_EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.csproj.GenerateResource.cache
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2-3_EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2-3_EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.AssemblyInfoInputs.cache
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2-3_EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.AssemblyInfo.cs
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2-3_EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.csproj.CoreCompileInputs.cache
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2-3_EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.dll
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2-3_EditPerson\EditPerson\obj\Debug\net8.0-windows\refint\EditPerson.dll
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2-3_EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.pdb
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2-3_EditPerson\EditPerson\obj\Debug\net8.0-windows\EditPerson.genruntimeconfig.cache
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L04_W2-3_EditPerson\EditPerson\obj\Debug\net8.0-windows\ref\EditPerson.dll
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L07_W1_EdPers_Mod\EditPerson\bin\Debug\net8.0-windows\EditPerson.exe
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L07_W1_EdPers_Mod\EditPerson\bin\Debug\net8.0-windows\EditPerson.deps.json
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L07_W1_EdPers_Mod\EditPerson\bin\Debug\net8.0-windows\EditPerson.runtimeconfig.json
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L07_W1_EdPers_Mod\EditPerson\bin\Debug\net8.0-windows\EditPerson.dll
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L07_W1_EdPers_Mod\EditPerson\bin\Debug\net8.0-windows\EditPerson.pdb
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L07_W1_EdPers_Mod\EditPerson\obj\Debug\net8.0-windows\EditPerson.EditPersonForm.resources
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L07_W1_EdPers_Mod\EditPerson\obj\Debug\net8.0-windows\EditPerson.Form1.resources
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L07_W1_EdPers_Mod\EditPerson\obj\Debug\net8.0-windows\EditPerson.csproj.GenerateResource.cache
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L07_W1_EdPers_Mod\EditPerson\obj\Debug\net8.0-windows\EditPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L07_W1_EdPers_Mod\EditPerson\obj\Debug\net8.0-windows\EditPerson.AssemblyInfoInputs.cache
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L07_W1_EdPers_Mod\EditPerson\obj\Debug\net8.0-windows\EditPerson.AssemblyInfo.cs
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L07_W1_EdPers_Mod\EditPerson\obj\Debug\net8.0-windows\EditPerson.csproj.CoreCompileInputs.cache
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L07_W1_EdPers_Mod\EditPerson\obj\Debug\net8.0-windows\EditPerson.dll
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L07_W1_EdPers_Mod\EditPerson\obj\Debug\net8.0-windows\refint\EditPerson.dll
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L07_W1_EdPers_Mod\EditPerson\obj\Debug\net8.0-windows\EditPerson.pdb
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L07_W1_EdPers_Mod\EditPerson\obj\Debug\net8.0-windows\EditPerson.genruntimeconfig.cache
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L07_W1_EdPers_Mod\EditPerson\obj\Debug\net8.0-windows\ref\EditPerson.dll
+C:\Users\user2\Desktop\L07_W1_EdPers_Mod\EditPerson\bin\Debug\net8.0-windows\EditPerson.exe
+C:\Users\user2\Desktop\L07_W1_EdPers_Mod\EditPerson\bin\Debug\net8.0-windows\EditPerson.deps.json
+C:\Users\user2\Desktop\L07_W1_EdPers_Mod\EditPerson\bin\Debug\net8.0-windows\EditPerson.runtimeconfig.json
+C:\Users\user2\Desktop\L07_W1_EdPers_Mod\EditPerson\bin\Debug\net8.0-windows\EditPerson.dll
+C:\Users\user2\Desktop\L07_W1_EdPers_Mod\EditPerson\bin\Debug\net8.0-windows\EditPerson.pdb
+C:\Users\user2\Desktop\L07_W1_EdPers_Mod\EditPerson\obj\Debug\net8.0-windows\EditPerson.EditPersonForm.resources
+C:\Users\user2\Desktop\L07_W1_EdPers_Mod\EditPerson\obj\Debug\net8.0-windows\EditPerson.Form1.resources
+C:\Users\user2\Desktop\L07_W1_EdPers_Mod\EditPerson\obj\Debug\net8.0-windows\EditPerson.csproj.GenerateResource.cache
+C:\Users\user2\Desktop\L07_W1_EdPers_Mod\EditPerson\obj\Debug\net8.0-windows\EditPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user2\Desktop\L07_W1_EdPers_Mod\EditPerson\obj\Debug\net8.0-windows\EditPerson.AssemblyInfoInputs.cache
+C:\Users\user2\Desktop\L07_W1_EdPers_Mod\EditPerson\obj\Debug\net8.0-windows\EditPerson.AssemblyInfo.cs
+C:\Users\user2\Desktop\L07_W1_EdPers_Mod\EditPerson\obj\Debug\net8.0-windows\EditPerson.csproj.CoreCompileInputs.cache
+C:\Users\user2\Desktop\L07_W1_EdPers_Mod\EditPerson\obj\Debug\net8.0-windows\EditPerson.dll
+C:\Users\user2\Desktop\L07_W1_EdPers_Mod\EditPerson\obj\Debug\net8.0-windows\refint\EditPerson.dll
+C:\Users\user2\Desktop\L07_W1_EdPers_Mod\EditPerson\obj\Debug\net8.0-windows\EditPerson.pdb
+C:\Users\user2\Desktop\L07_W1_EdPers_Mod\EditPerson\obj\Debug\net8.0-windows\EditPerson.genruntimeconfig.cache
+C:\Users\user2\Desktop\L07_W1_EdPers_Mod\EditPerson\obj\Debug\net8.0-windows\ref\EditPerson.dll

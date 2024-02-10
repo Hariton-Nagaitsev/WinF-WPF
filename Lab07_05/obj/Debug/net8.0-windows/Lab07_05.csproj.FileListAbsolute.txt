@@ -1,0 +1,17 @@
+E:\ITMO\C#2\WinForm-main\Lab07_05\bin\Debug\net8.0-windows\Lab07_05.exe
+E:\ITMO\C#2\WinForm-main\Lab07_05\bin\Debug\net8.0-windows\Lab07_05.deps.json
+E:\ITMO\C#2\WinForm-main\Lab07_05\bin\Debug\net8.0-windows\Lab07_05.runtimeconfig.json
+E:\ITMO\C#2\WinForm-main\Lab07_05\bin\Debug\net8.0-windows\Lab07_05.dll
+E:\ITMO\C#2\WinForm-main\Lab07_05\bin\Debug\net8.0-windows\Lab07_05.pdb
+E:\ITMO\C#2\WinForm-main\Lab07_05\obj\Debug\net8.0-windows\Lab07_05.Form1.resources
+E:\ITMO\C#2\WinForm-main\Lab07_05\obj\Debug\net8.0-windows\Lab07_05.csproj.GenerateResource.cache
+E:\ITMO\C#2\WinForm-main\Lab07_05\obj\Debug\net8.0-windows\Lab07_05.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITMO\C#2\WinForm-main\Lab07_05\obj\Debug\net8.0-windows\Lab07_05.AssemblyInfoInputs.cache
+E:\ITMO\C#2\WinForm-main\Lab07_05\obj\Debug\net8.0-windows\Lab07_05.AssemblyInfo.cs
+E:\ITMO\C#2\WinForm-main\Lab07_05\obj\Debug\net8.0-windows\Lab07_05.csproj.CoreCompileInputs.cache
+E:\ITMO\C#2\WinForm-main\Lab07_05\obj\Debug\net8.0-windows\Lab07_05.sourcelink.json
+E:\ITMO\C#2\WinForm-main\Lab07_05\obj\Debug\net8.0-windows\Lab07_05.dll
+E:\ITMO\C#2\WinForm-main\Lab07_05\obj\Debug\net8.0-windows\refint\Lab07_05.dll
+E:\ITMO\C#2\WinForm-main\Lab07_05\obj\Debug\net8.0-windows\Lab07_05.pdb
+E:\ITMO\C#2\WinForm-main\Lab07_05\obj\Debug\net8.0-windows\Lab07_05.genruntimeconfig.cache
+E:\ITMO\C#2\WinForm-main\Lab07_05\obj\Debug\net8.0-windows\ref\Lab07_05.dll

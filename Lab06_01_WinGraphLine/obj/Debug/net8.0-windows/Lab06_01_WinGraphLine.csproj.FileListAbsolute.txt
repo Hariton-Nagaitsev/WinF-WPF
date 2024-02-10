@@ -1,0 +1,17 @@
+C:\Users\user2\Desktop\L06_W1_WinGraphLine\L06_W1_WinGraphLine\bin\Debug\net8.0-windows\Lab06_01_WinGraphLine.exe
+C:\Users\user2\Desktop\L06_W1_WinGraphLine\L06_W1_WinGraphLine\bin\Debug\net8.0-windows\Lab06_01_WinGraphLine.deps.json
+C:\Users\user2\Desktop\L06_W1_WinGraphLine\L06_W1_WinGraphLine\bin\Debug\net8.0-windows\Lab06_01_WinGraphLine.runtimeconfig.json
+C:\Users\user2\Desktop\L06_W1_WinGraphLine\L06_W1_WinGraphLine\bin\Debug\net8.0-windows\Lab06_01_WinGraphLine.dll
+C:\Users\user2\Desktop\L06_W1_WinGraphLine\L06_W1_WinGraphLine\bin\Debug\net8.0-windows\Lab06_01_WinGraphLine.pdb
+C:\Users\user2\Desktop\L06_W1_WinGraphLine\L06_W1_WinGraphLine\obj\Debug\net8.0-windows\Lab06_01_WinGraphLine.edit.resources
+C:\Users\user2\Desktop\L06_W1_WinGraphLine\L06_W1_WinGraphLine\obj\Debug\net8.0-windows\Lab06_01_WinGraphLine.Form1.resources
+C:\Users\user2\Desktop\L06_W1_WinGraphLine\L06_W1_WinGraphLine\obj\Debug\net8.0-windows\Lab06_01_WinGraphLine.csproj.GenerateResource.cache
+C:\Users\user2\Desktop\L06_W1_WinGraphLine\L06_W1_WinGraphLine\obj\Debug\net8.0-windows\Lab06_01_WinGraphLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user2\Desktop\L06_W1_WinGraphLine\L06_W1_WinGraphLine\obj\Debug\net8.0-windows\Lab06_01_WinGraphLine.AssemblyInfoInputs.cache
+C:\Users\user2\Desktop\L06_W1_WinGraphLine\L06_W1_WinGraphLine\obj\Debug\net8.0-windows\Lab06_01_WinGraphLine.AssemblyInfo.cs
+C:\Users\user2\Desktop\L06_W1_WinGraphLine\L06_W1_WinGraphLine\obj\Debug\net8.0-windows\Lab06_01_WinGraphLine.csproj.CoreCompileInputs.cache
+C:\Users\user2\Desktop\L06_W1_WinGraphLine\L06_W1_WinGraphLine\obj\Debug\net8.0-windows\Lab06_01_WinGraphLine.dll
+C:\Users\user2\Desktop\L06_W1_WinGraphLine\L06_W1_WinGraphLine\obj\Debug\net8.0-windows\refint\Lab06_01_WinGraphLine.dll
+C:\Users\user2\Desktop\L06_W1_WinGraphLine\L06_W1_WinGraphLine\obj\Debug\net8.0-windows\Lab06_01_WinGraphLine.pdb
+C:\Users\user2\Desktop\L06_W1_WinGraphLine\L06_W1_WinGraphLine\obj\Debug\net8.0-windows\Lab06_01_WinGraphLine.genruntimeconfig.cache
+C:\Users\user2\Desktop\L06_W1_WinGraphLine\L06_W1_WinGraphLine\obj\Debug\net8.0-windows\ref\Lab06_01_WinGraphLine.dll

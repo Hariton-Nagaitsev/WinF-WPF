@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Pr09_BackgroundWorker/1.0.0": {
+        "runtime": {
+          "Pr09_BackgroundWorker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pr09_BackgroundWorker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

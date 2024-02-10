@@ -1,0 +1,32 @@
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W2_Balls\Balls\bin\Debug\net8.0-windows\Balls.exe
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W2_Balls\Balls\bin\Debug\net8.0-windows\Balls.deps.json
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W2_Balls\Balls\bin\Debug\net8.0-windows\Balls.runtimeconfig.json
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W2_Balls\Balls\bin\Debug\net8.0-windows\Balls.dll
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W2_Balls\Balls\bin\Debug\net8.0-windows\Balls.pdb
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W2_Balls\Balls\obj\Debug\net8.0-windows\Balls.Form1.resources
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W2_Balls\Balls\obj\Debug\net8.0-windows\Balls.csproj.GenerateResource.cache
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W2_Balls\Balls\obj\Debug\net8.0-windows\Balls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W2_Balls\Balls\obj\Debug\net8.0-windows\Balls.AssemblyInfoInputs.cache
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W2_Balls\Balls\obj\Debug\net8.0-windows\Balls.AssemblyInfo.cs
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W2_Balls\Balls\obj\Debug\net8.0-windows\Balls.csproj.CoreCompileInputs.cache
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W2_Balls\Balls\obj\Debug\net8.0-windows\Balls.dll
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W2_Balls\Balls\obj\Debug\net8.0-windows\refint\Balls.dll
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W2_Balls\Balls\obj\Debug\net8.0-windows\Balls.pdb
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W2_Balls\Balls\obj\Debug\net8.0-windows\Balls.genruntimeconfig.cache
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W2_Balls\Balls\obj\Debug\net8.0-windows\ref\Balls.dll
+C:\Users\user2\Desktop\L06_W2_Balls\Balls\bin\Debug\net8.0-windows\Balls.exe
+C:\Users\user2\Desktop\L06_W2_Balls\Balls\bin\Debug\net8.0-windows\Balls.deps.json
+C:\Users\user2\Desktop\L06_W2_Balls\Balls\bin\Debug\net8.0-windows\Balls.runtimeconfig.json
+C:\Users\user2\Desktop\L06_W2_Balls\Balls\bin\Debug\net8.0-windows\Balls.dll
+C:\Users\user2\Desktop\L06_W2_Balls\Balls\bin\Debug\net8.0-windows\Balls.pdb
+C:\Users\user2\Desktop\L06_W2_Balls\Balls\obj\Debug\net8.0-windows\Balls.Form1.resources
+C:\Users\user2\Desktop\L06_W2_Balls\Balls\obj\Debug\net8.0-windows\Balls.csproj.GenerateResource.cache
+C:\Users\user2\Desktop\L06_W2_Balls\Balls\obj\Debug\net8.0-windows\Balls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user2\Desktop\L06_W2_Balls\Balls\obj\Debug\net8.0-windows\Balls.AssemblyInfoInputs.cache
+C:\Users\user2\Desktop\L06_W2_Balls\Balls\obj\Debug\net8.0-windows\Balls.AssemblyInfo.cs
+C:\Users\user2\Desktop\L06_W2_Balls\Balls\obj\Debug\net8.0-windows\Balls.csproj.CoreCompileInputs.cache
+C:\Users\user2\Desktop\L06_W2_Balls\Balls\obj\Debug\net8.0-windows\Balls.dll
+C:\Users\user2\Desktop\L06_W2_Balls\Balls\obj\Debug\net8.0-windows\refint\Balls.dll
+C:\Users\user2\Desktop\L06_W2_Balls\Balls\obj\Debug\net8.0-windows\Balls.pdb
+C:\Users\user2\Desktop\L06_W2_Balls\Balls\obj\Debug\net8.0-windows\Balls.genruntimeconfig.cache
+C:\Users\user2\Desktop\L06_W2_Balls\Balls\obj\Debug\net8.0-windows\ref\Balls.dll

@@ -1,0 +1,17 @@
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W1_WinGraphLine\L06_W1_WinGraphLine\obj\Debug\net8.0-windows\L06_W1_WinGraphLine.Form1.resources
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W1_WinGraphLine\L06_W1_WinGraphLine\obj\Debug\net8.0-windows\L06_W1_WinGraphLine.csproj.GenerateResource.cache
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W1_WinGraphLine\L06_W1_WinGraphLine\obj\Debug\net8.0-windows\L06_W1_WinGraphLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W1_WinGraphLine\L06_W1_WinGraphLine\obj\Debug\net8.0-windows\L06_W1_WinGraphLine.AssemblyInfoInputs.cache
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W1_WinGraphLine\L06_W1_WinGraphLine\obj\Debug\net8.0-windows\L06_W1_WinGraphLine.AssemblyInfo.cs
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W1_WinGraphLine\L06_W1_WinGraphLine\obj\Debug\net8.0-windows\L06_W1_WinGraphLine.csproj.CoreCompileInputs.cache
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W1_WinGraphLine\L06_W1_WinGraphLine\bin\Debug\net8.0-windows\L06_W1_WinGraphLine.exe
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W1_WinGraphLine\L06_W1_WinGraphLine\bin\Debug\net8.0-windows\L06_W1_WinGraphLine.deps.json
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W1_WinGraphLine\L06_W1_WinGraphLine\bin\Debug\net8.0-windows\L06_W1_WinGraphLine.runtimeconfig.json
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W1_WinGraphLine\L06_W1_WinGraphLine\bin\Debug\net8.0-windows\L06_W1_WinGraphLine.dll
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W1_WinGraphLine\L06_W1_WinGraphLine\bin\Debug\net8.0-windows\L06_W1_WinGraphLine.pdb
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W1_WinGraphLine\L06_W1_WinGraphLine\obj\Debug\net8.0-windows\L06_W1_WinGraphLine.dll
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W1_WinGraphLine\L06_W1_WinGraphLine\obj\Debug\net8.0-windows\refint\L06_W1_WinGraphLine.dll
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W1_WinGraphLine\L06_W1_WinGraphLine\obj\Debug\net8.0-windows\L06_W1_WinGraphLine.pdb
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W1_WinGraphLine\L06_W1_WinGraphLine\obj\Debug\net8.0-windows\L06_W1_WinGraphLine.genruntimeconfig.cache
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W1_WinGraphLine\L06_W1_WinGraphLine\obj\Debug\net8.0-windows\ref\L06_W1_WinGraphLine.dll
+C:\Users\nikitos\Desktop\Prog General\Course 05 - C# Prog Win\Works\L06_W1_WinGraphLine\L06_W1_WinGraphLine\obj\Debug\net8.0-windows\L06_W1_WinGraphLine.edit.resources
